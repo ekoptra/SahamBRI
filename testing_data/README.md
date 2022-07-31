@@ -1,0 +1,1 @@
+Download data untuk folder ini [disini](https://drive.google.com/drive/folders/1amolvIbPds3qXIKyB40yTjC6aaRZQ2gZ?usp=sharing)
