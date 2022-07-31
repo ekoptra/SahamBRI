@@ -36,6 +36,6 @@ Selain itu terdapat juga beberapa folder
 3. Folder yang tidak ada pada repo ini karena ukurannya sangat besar. Silahkan download folder tersebut beserta isinya di [google drive](https://drive.google.com/drive/folders/15HNIiolMJg2EfiUVa6vB1_LB0ZeFB6dP?usp=sharing)
 
 
-Repo ini juga bisa diperoleh di [Github](https://github.com/ekoptra/skripsi). *Thank you for visiting my repo!*
+*Thank you for visiting my repo!*
 
 **Best Regards, Eko Putra Wahyuddin!**
